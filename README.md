@@ -1,14 +1,8 @@
-# Data Analyst_Internship Certificate - Unified Mentor Pvt Ltd
-
-This repository contains the internship certificate of **Vijay Rajaram Sanas**, recognizing the successful completion of a six-month internship as a **Data Analyst Intern** at **Unified Mentor Pvt Ltd**.
-
----
-
-## Certificate
-
 ![Internship Certificate](Unified_Internship-Certificate.png)
 
+# Data Analyst_Internship Certificate - Unified Mentor Pvt Ltd
 ---
+This repository contains the internship certificate of **Vijay Rajaram Sanas**, recognizing the successful completion of a six-month internship as a **Data Analyst Intern** at **Unified Mentor Pvt Ltd**.
 
 ## Internship Overview
 
