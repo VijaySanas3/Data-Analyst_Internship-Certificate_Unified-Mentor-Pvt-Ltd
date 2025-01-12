@@ -6,7 +6,7 @@ This repository contains the internship certificate of **Vijay Rajaram Sanas**, 
 
 ## Certificate
 
-![Internship Certificate](./internship_certificate.png)
+![Internship Certificate](Unified_Internship-Certificate.png)
 
 ---
 
